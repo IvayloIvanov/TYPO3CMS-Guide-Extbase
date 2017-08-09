@@ -117,7 +117,7 @@ array **$this->arguments**.
 initializeAction
 ::::::::::::::::
 
-The content of this action is up to you: all all of the code in this action will be executed before EVERY specific 
+The content of this action is up to you: all of the code in this action will be executed before EVERY specific 
 action method.
 
 initializeXXXAction
