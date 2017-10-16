@@ -17,7 +17,7 @@ The *configuration framework* reads and interleaves the various configurations.
 The *Resource module* contains functions for publishing, caching, securing and retrieving resources.
 The *HTTP component* is a standards-compliant implementation of a number of RFCs around HTTP, Cookies, content negotiation and more.
 The *MVC framework* takes care of requests and responses and provides you with a powerful, easy-to use Model-View-Controller implementation.
-The *Cache framework* provides different kinds of caches with can be combined with a selection of cache backends.
+The *Cache framework* provides different kinds of caches witch can be combined with a selection of cache backends.
 The *Error module* handles errors and exceptions and provides utility classes for this purpose.
 The *Log module* provides simple but powerful means to log any kind of event or signal into different types of backends.
 The *Signal Slot module* implements the event-driven concept of signals and slots through AOP aspects.
