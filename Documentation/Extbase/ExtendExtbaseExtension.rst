@@ -16,7 +16,7 @@ You'll find the template for the detail view here:
  typo3conf/ext/productoverview/Resources/Private/Partials/Product/Properties.html
 
 
-When you begin, you'll see that only the *title* and *price* are displayed. at present, the 
+When you begin, you'll see that only the *title* and *price* are displayed. At present, the 
 Extension Builder doesn't automatically display the domain model connections, so you'll need 
 to add them yourself. Add the following code to the template, so that the *category* is displayed.
 
